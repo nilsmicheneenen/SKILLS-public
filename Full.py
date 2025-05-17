@@ -4,7 +4,7 @@ from openai import OpenAI
 
 def main():
     # instantiate your OpenAI client
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    client = OpenAI(api_key=st.secrets["openai_api_key"])
 
     st.title("🎓 Club Finder")
     query = st.text_input("What kind of club are you looking for?")
