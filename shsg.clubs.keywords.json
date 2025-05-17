@@ -1,0 +1,934 @@
+[
+  {
+    "name": "SHSG",
+    "keywords": [
+      "universität",
+      "aktiv"
+    ]
+  },
+  {
+    "name": "START Global",
+    "keywords": [
+      "start",
+      "entrepreneurial"
+    ]
+  },
+  {
+    "name": "AV Kybelia",
+    "keywords": [
+      "nicht",
+      "abenden"
+    ]
+  },
+  {
+    "name": "AV Mercuria",
+    "keywords": [
+      "mercuria",
+      "1900"
+    ]
+  },
+  {
+    "name": "AV Steinacher",
+    "keywords": [
+      "auch",
+      "einem"
+    ]
+  },
+  {
+    "name": "Bierverein",
+    "keywords": [
+      "bierkultur",
+      "werden"
+    ]
+  },
+  {
+    "name": "Amplify",
+    "keywords": [
+      "music",
+      "amplify"
+    ]
+  },
+  {
+    "name": "Handballspielgemeinschaft SG",
+    "keywords": [
+      "handball",
+      "community"
+    ]
+  },
+  {
+    "name": "International Students' Committee",
+    "keywords": [
+      "symposium",
+      "gallen"
+    ]
+  },
+  {
+    "name": "International Law Society",
+    "keywords": [
+      "international",
+      "members"
+    ]
+  },
+  {
+    "name": "Junior",
+    "keywords": [
+      "club",
+      "companies"
+    ]
+  },
+  {
+    "name": "Model WTO",
+    "keywords": [
+      "students",
+      "trade"
+    ]
+  },
+  {
+    "name": "Sicherheitspolitisches Forum St.Gallen",
+    "keywords": [
+      "dazu",
+      "experten"
+    ]
+  },
+  {
+    "name": "Student Impact",
+    "keywords": [
+      "business",
+      "sustainable"
+    ]
+  },
+  {
+    "name": "Sustainable Investment Club",
+    "keywords": [
+      "finance",
+      "sustainable"
+    ]
+  },
+  {
+    "name": "UniSGolf",
+    "keywords": [
+      "unisgolf",
+      "members"
+    ]
+  },
+  {
+    "name": "Weinverein",
+    "keywords": [
+      "gallen",
+      "universität"
+    ]
+  },
+  {
+    "name": "Ressort International ",
+    "keywords": [
+      "students",
+      "international"
+    ]
+  },
+  {
+    "name": "AIESEC",
+    "keywords": [
+      "aiesec",
+      "cross"
+    ]
+  },
+  {
+    "name": "Emerging Markets Club",
+    "keywords": [
+      "emerging",
+      "markets"
+    ]
+  },
+  {
+    "name": "Family Business Club",
+    "keywords": [
+      "austausch",
+      "business"
+    ]
+  },
+  {
+    "name": "Academic Surfclub",
+    "keywords": [
+      "events",
+      "abwechslungsreichen"
+    ]
+  },
+  {
+    "name": "AV Amicitia",
+    "keywords": [
+      "amicitia",
+      "verbindung"
+    ]
+  },
+  {
+    "name": "AV Bodania",
+    "keywords": [
+      "seit",
+      "bodania"
+    ]
+  },
+  {
+    "name": "AV Notkeriana",
+    "keywords": [
+      "auch",
+      "gemeinsam"
+    ]
+  },
+  {
+    "name": "Zofingia HSG",
+    "keywords": [
+      "zofingia",
+      "auch"
+    ]
+  },
+  {
+    "name": "Africa Association",
+    "keywords": [
+      "approaches",
+      "solutions"
+    ]
+  },
+  {
+    "name": "Asia Club",
+    "keywords": [
+      "asia",
+      "business"
+    ]
+  },
+  {
+    "name": "CEMS Club St. Gallen",
+    "keywords": [
+      "cems",
+      "ccsg"
+    ]
+  },
+  {
+    "name": "Cercles des Francophones",
+    "keywords": [
+      "events",
+      "students"
+    ]
+  },
+  {
+    "name": "Club Latino",
+    "keywords": [
+      "events",
+      "where"
+    ]
+  },
+  {
+    "name": "Italian Club",
+    "keywords": [
+      "italian",
+      "club"
+    ]
+  },
+  {
+    "name": "Österreicher Verein",
+    "keywords": [
+      "studierenden",
+      "aller"
+    ]
+  },
+  {
+    "name": "Scandinavian Society",
+    "keywords": [
+      "students",
+      "club"
+    ]
+  },
+  {
+    "name": "SGMUN",
+    "keywords": [
+      "their",
+      "also"
+    ]
+  },
+  {
+    "name": "Turkish Business Club",
+    "keywords": [
+      "studierenden",
+      "zwischen"
+    ]
+  },
+  {
+    "name": "Liechtensteiner Verein an der Universität St.Gallen",
+    "keywords": [
+      "liechtensteiner",
+      "aller"
+    ]
+  },
+  {
+    "name": "YUnited",
+    "keywords": [
+      "club",
+      "connecting"
+    ]
+  },
+  {
+    "name": "Bernerverein",
+    "keywords": [
+      "eine",
+      "heimat"
+    ]
+  },
+  {
+    "name": "Fribourger Verein",
+    "keywords": [
+      "alle",
+      "ceux"
+    ]
+  },
+  {
+    "name": "SGOC",
+    "keywords": [
+      "associazione",
+      "sgoc"
+    ]
+  },
+  {
+    "name": "St. Galler Verein",
+    "keywords": [
+      "bist",
+      "dich"
+    ]
+  },
+  {
+    "name": "ZHC",
+    "keywords": [
+      "gallen",
+      "kanton"
+    ]
+  },
+  {
+    "name": "Verein Beider Basel",
+    "keywords": [
+      "basel",
+      "beider"
+    ]
+  },
+  {
+    "name": "Walliser Verein",
+    "keywords": []
+  },
+  {
+    "name": "Zuger Verein",
+    "keywords": []
+  },
+  {
+    "name": "Combat Sports Club",
+    "keywords": [
+      "whatsapp",
+      "chat"
+    ]
+  },
+  {
+    "name": "Gekkos St Gallen",
+    "keywords": [
+      "sich",
+      "team"
+    ]
+  },
+  {
+    "name": "Grizzlies St Gallen",
+    "keywords": [
+      "team",
+      "training"
+    ]
+  },
+  {
+    "name": "HSG Sailing",
+    "keywords": [
+      "university",
+      "challenge"
+    ]
+  },
+  {
+    "name": "Silverbacks Rugby Sevens ",
+    "keywords": [
+      "rugby",
+      "silverbacks"
+    ]
+  },
+  {
+    "name": "St Gallen Wolfpack",
+    "keywords": [
+      "coming",
+      "soon"
+    ]
+  },
+  {
+    "name": "Swimming at the HSG ",
+    "keywords": [
+      "swimming",
+      "addition"
+    ]
+  },
+  {
+    "name": "Tennis Team",
+    "keywords": [
+      "tennis",
+      "gallen"
+    ]
+  },
+  {
+    "name": "UHU St Gallen",
+    "keywords": [
+      "training",
+      "oder"
+    ]
+  },
+  {
+    "name": "Debating Club",
+    "keywords": [
+      "current",
+      "debates"
+    ]
+  },
+  {
+    "name": "Festverein",
+    "keywords": []
+  },
+  {
+    "name": "HSG Big Band",
+    "keywords": [
+      "bigband",
+      "association"
+    ]
+  },
+  {
+    "name": "proArte",
+    "keywords": [
+      "universität",
+      "allen"
+    ]
+  },
+  {
+    "name": "Treffpunkt Steinbock",
+    "keywords": [
+      "university",
+      "steinbock"
+    ]
+  },
+  {
+    "name": "UniChor ",
+    "keywords": [
+      "chor",
+      "gallen"
+    ]
+  },
+  {
+    "name": "Foraus St. Gallen",
+    "keywords": [
+      "foraus",
+      "policy"
+    ]
+  },
+  {
+    "name": "IGNITE Movement",
+    "keywords": [
+      "business",
+      "ignite"
+    ]
+  },
+  {
+    "name": "Law Clinic",
+    "keywords": [
+      "universität",
+      "gallen"
+    ]
+  },
+  {
+    "name": "oikos St.Gallen",
+    "keywords": [
+      "oikos",
+      "gallen"
+    ]
+  },
+  {
+    "name": "PIECES",
+    "keywords": [
+      "education",
+      "projects"
+    ]
+  },
+  {
+    "name": "Puredrops",
+    "keywords": [
+      "access",
+      "children"
+    ]
+  },
+  {
+    "name": "Unigay",
+    "keywords": [
+      "lgbtq",
+      "queer"
+    ]
+  },
+  {
+    "name": "Vimentis",
+    "keywords": [
+      "innen",
+      "politik"
+    ]
+  },
+  {
+    "name": "Youth Engagement ",
+    "keywords": [
+      "arbeitet",
+      "bietet"
+    ]
+  },
+  {
+    "name": "Consulting Club",
+    "keywords": [
+      "consulting",
+      "students"
+    ]
+  },
+  {
+    "name": "Esprit",
+    "keywords": [
+      "gallen",
+      "kunden"
+    ]
+  },
+  {
+    "name": "Hedge Fund Club",
+    "keywords": [
+      "association",
+      "funds"
+    ]
+  },
+  {
+    "name": "HIC ",
+    "keywords": [
+      "club",
+      "active"
+    ]
+  },
+  {
+    "name": "Social Business Club",
+    "keywords": [
+      "social",
+      "community"
+    ]
+  },
+  {
+    "name": "Impulse Network",
+    "keywords": [
+      "sports",
+      "business"
+    ]
+  },
+  {
+    "name": "Students´ Business Club",
+    "keywords": [
+      "business",
+      "club"
+    ]
+  },
+  {
+    "name": "Aviation Club",
+    "keywords": [
+      "aviation",
+      "endless"
+    ]
+  },
+  {
+    "name": "Tech Club",
+    "keywords": [
+      "data",
+      "become"
+    ]
+  },
+  {
+    "name": "FLUX",
+    "keywords": [
+      "luxury",
+      "brands"
+    ]
+  },
+  {
+    "name": "Industrial Club",
+    "keywords": [
+      "studierenden",
+      "club"
+    ]
+  },
+  {
+    "name": "inno-maker",
+    "keywords": [
+      "innovation",
+      "potential"
+    ]
+  },
+  {
+    "name": "Marketing Club",
+    "keywords": [
+      "club",
+      "1985"
+    ]
+  },
+  {
+    "name": "PEVC Club",
+    "keywords": [
+      "club",
+      "capital"
+    ]
+  },
+  {
+    "name": "Retail & E-Commerce Club",
+    "keywords": [
+      "aims",
+      "campus"
+    ]
+  },
+  {
+    "name": "SLTA Student Chapter",
+    "keywords": [
+      "gallen",
+      "sich"
+    ]
+  },
+  {
+    "name": "Students' Real Estate Club",
+    "keywords": [
+      "bieten",
+      "eine"
+    ]
+  },
+  {
+    "name": "The Logistics Club",
+    "keywords": [
+      "logistics",
+      "industry"
+    ]
+  },
+  {
+    "name": "Watch Club HSG",
+    "keywords": [
+      "around",
+      "watch"
+    ]
+  },
+  {
+    "name": "Ad-Hoc Economics",
+    "keywords": [
+      "between",
+      "economic"
+    ]
+  },
+  {
+    "name": "LawDays",
+    "keywords": [
+      "lawdays",
+      "bildungs"
+    ]
+  },
+  {
+    "name": "MUSt",
+    "keywords": [
+      "universität",
+      "gallen"
+    ]
+  },
+  {
+    "name": "NEO Network",
+    "keywords": [
+      "network",
+      "explore"
+    ]
+  },
+  {
+    "name": "SLESS",
+    "keywords": [
+      "economics",
+      "bieten"
+    ]
+  },
+  {
+    "name": "TedxHSG",
+    "keywords": [
+      "event",
+      "about"
+    ]
+  },
+  {
+    "name": "ToastMasters",
+    "keywords": [
+      "2013",
+      "allowing"
+    ]
+  },
+  {
+    "name": "UNIVERSA – The Women’s Business Network",
+    "keywords": [
+      "universa",
+      "alle"
+    ]
+  },
+  {
+    "name": "prisma",
+    "keywords": [
+      "prisma",
+      "einer"
+    ]
+  },
+  {
+    "name": "SKK",
+    "keywords": [
+      "clubs",
+      "lecture"
+    ]
+  },
+  {
+    "name": "Infrastructure Initiative",
+    "keywords": [
+      "infrastructure",
+      "campus"
+    ]
+  },
+  {
+    "name": "HIC Capital",
+    "keywords": [
+      "career",
+      "finance"
+    ]
+  },
+  {
+    "name": "Verein der Offiziere",
+    "keywords": [
+      "netzwerk",
+      "offiziere"
+    ]
+  },
+  {
+    "name": "Swiss Sequoia Club",
+    "keywords": [
+      "events",
+      "startup"
+    ]
+  },
+  {
+    "name": "BereichG",
+    "keywords": [
+      "dich",
+      "meetingpoint"
+    ]
+  },
+  {
+    "name": "Orchester der Universität St. Gallen",
+    "keywords": [
+      "gallen",
+      "orchester"
+    ]
+  },
+  {
+    "name": "Hungarian Society at the University of St.Gallen",
+    "keywords": [
+      "hungarian",
+      "hungary"
+    ]
+  },
+  {
+    "name": "StipNet",
+    "keywords": []
+  },
+  {
+    "name": "Luzerner Verein",
+    "keywords": [
+      "1988",
+      "berauschende"
+    ]
+  },
+  {
+    "name": "Studentenparlament",
+    "keywords": [
+      "shsg",
+      "studentischen"
+    ]
+  },
+  {
+    "name": "Consulting Days",
+    "keywords": [
+      "consulting",
+      "biggest"
+    ]
+  },
+  {
+    "name": "Studienfinanzierung | Studyfunding",
+    "keywords": [
+      "gallen",
+      "9000"
+    ]
+  },
+  {
+    "name": "Bibliothek | Library",
+    "keywords": [
+      "ausleihe",
+      "beratung"
+    ]
+  },
+  {
+    "name": "Healthcare Club",
+    "keywords": [
+      "aber",
+      "nicht"
+    ]
+  },
+  {
+    "name": "Cycling Club",
+    "keywords": [
+      "club",
+      "cycling"
+    ]
+  },
+  {
+    "name": "Elevated Psychology Network",
+    "keywords": [
+      "psychology",
+      "conversations"
+    ]
+  },
+  {
+    "name": "Philosophy Club",
+    "keywords": [
+      "allow",
+      "broaden"
+    ]
+  },
+  {
+    "name": "Radio toxic.fm",
+    "keywords": [
+      "statuten"
+    ]
+  },
+  {
+    "name": "Pride Month",
+    "keywords": [
+      "events",
+      "gallen"
+    ]
+  },
+  {
+    "name": "HSG Student Podcast",
+    "keywords": [
+      "podcast",
+      "jederzeit"
+    ]
+  },
+  {
+    "name": "SGFER",
+    "keywords": [
+      "about",
+      "articles"
+    ]
+  },
+  {
+    "name": "SQUARE",
+    "keywords": [
+      "critical",
+      "debate"
+    ]
+  },
+  {
+    "name": "HSG Alumni",
+    "keywords": [
+      "alumni",
+      "aktivsten"
+    ]
+  },
+  {
+    "name": "HSG Coaching-Programm",
+    "keywords": [
+      "ausgerichtetes",
+      "coaching"
+    ]
+  },
+  {
+    "name": "HSG Mentoring-Programme",
+    "keywords": [
+      "students",
+      "development"
+    ]
+  },
+  {
+    "name": "Automobility Club",
+    "keywords": [
+      "events",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Crypto Society of St.Gallen",
+    "keywords": [
+      "crypto",
+      "future"
+    ]
+  },
+  {
+    "name": "Studententheater St. Gallen",
+    "keywords": [
+      "aussergewöhnliche",
+      "führt"
+    ]
+  },
+  {
+    "name": "Rethinking Economics St.Gallen",
+    "keywords": [
+      "economics",
+      "such"
+    ]
+  },
+  {
+    "name": "MSASG (Muslim Students Association St. Gallen)",
+    "keywords": [
+      "religious",
+      "islamic"
+    ]
+  },
+  {
+    "name": "Students' Philanthropic Foundation",
+    "keywords": [
+      "philanthropic",
+      "students"
+    ]
+  },
+  {
+    "name": "Militärische Verbindungsstelle (MilVrb HSG)",
+    "keywords": [
+      "military",
+      "sowie"
+    ]
+  },
+  {
+    "name": "Appenzeller Verein",
+    "keywords": [
+      "appenzeller",
+      "alumni"
+    ]
+  },
+  {
+    "name": "ETHSG",
+    "keywords": [
+      "events",
+      "students"
+    ]
+  },
+  {
+    "name": "Aargauer Verein",
+    "keywords": [
+      "aargau",
+      "aargauer"
+    ]
+  },
+  {
+    "name": "Athletes Club",
+    "keywords": [
+      "athletes",
+      "active"
+    ]
+  }
+]
