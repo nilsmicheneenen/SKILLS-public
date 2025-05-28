@@ -24,5 +24,6 @@ If you want to run the code locally please first set your OpenAI API key as an e
 By changing the path of the api key in the Full.py file to the path to the key on your device. For example for mac "api_key=os.getenv("OPENAI_API_KEY")"
 Please also download all of the listed extensions in the requirements file.
 Then run the app.py file and by writing "streamlit run "<<<path to the app.py file>>>"
+If you want to run the app locally please send an email at nilsmichel.nguyen@student.unisg.ch so I can provide you with the OpenAI API key
 
 
