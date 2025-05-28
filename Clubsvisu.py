@@ -82,7 +82,7 @@ def main():
         # create a cross-tab (pivot table) to count recruitment status per member size category
         ct = pd.crosstab(df['orderedMembers'], df['isRecruiting'])
         fig4, ax4 = plt.subplots(figsize=(6, 6))
-        ct.plot(kind='bar',ax=ax4,color={'No': 'red', 'Yes': 'blue'}  # Map 'No' → red, 'Yes' → blue) #select specific color in order to have consitency with row 1 graphs
+        ct.plot(kind='bar',ax=ax4,color={'No': 'red', 'Yes': 'blue'})  # Map 'No' → red, 'Yes' → blue, select specific color in order to have consitency with row 1 graphs
         ax4.set_xlabel("Number of Members")#X-axis label
         ax4.set_ylabel("Number of Clubs")  #Y-axis label
         plt.style.use('bmh')# Apply a style for homogeneity
