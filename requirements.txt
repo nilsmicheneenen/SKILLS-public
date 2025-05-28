@@ -1,3 +1,4 @@
+#all of the required library to import in order to run the app
 streamlit
 openai
 pandas
