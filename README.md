@@ -13,8 +13,8 @@ The app is available online at the following link: "https://skillsgit-e6v4fsbadl
 In case the app has not been used in a long time please allow for some time for the initialisation.
 In addition to the requirements file, five different files are required to run the app.
 App.py is the master file that is used to enable the navigation between the different pages and the initialization of the app.
-Full.py is the file that creates the AI-powered club finder by being connected to OpenAI API on which shsg.clubs.keyword.json file is sent.
-to enable the recommendation. Shsg.clubs.keywords.json is a compact file of shsg.clubs.json this transformation was required to not reach the token limit.
+Full.py is the file that creates the AI-powered club finder by being connected to OpenAI API on which shsg.clubs.keyword.json file is sent in order
+to enable the recommendation. Shsg.clubs.keywords.json is a compact file of shsg.clubs.json this transformation was required to not reach the API token limit.
 Clubsvisu.py powers the page which displays the visualization and filtering options according to the information found in the shsg.clubs.json
 
 ##Instruction to run the code locally
