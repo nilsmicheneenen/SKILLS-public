@@ -18,12 +18,13 @@ to enable the recommendation. Shsg.clubs.keywords.json is a compact file of shsg
 Clubsvisu.py powers the page which displays the visualization and filtering options according to the information found in the shsg.clubs.json
 
 ##Instruction to run the code locally
-
+Normally there is no need to run it locally.
 Currently, the code is set up to run on the streamlit server if you want to run the code locally some change are required. 
 If you want to run the code locally please first set your OpenAI API key as an environment variable in your device and link it accordingly.
 By changing the path of the api key in the Full.py file to the path to the key on your device. For example for mac "api_key=os.getenv("OPENAI_API_KEY")"
 Please also download all of the listed extensions in the requirements file.
 Then run the app.py file and by writing "streamlit run "<<<"path to the app.py file">>>"
-If you want to run the app locally please send an email at nilsmichel.nguyen@student.unisg.ch so I can provide you with the OpenAI API key
+If you want to run the app locally please send an email at nilsmichel.nguyen@student.unisg.ch so I can provide you with the OpenAI API key as it is recommended to not share it on a public git.
+
 
 
