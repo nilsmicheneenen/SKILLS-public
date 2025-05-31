@@ -5,7 +5,7 @@ The app is accessible at "https://skillsgit-e6v4fsbadldi4elghnfwon.streamlit.app
 This project is an AI-powered club finder for new students or students in general
 The project is structured in a multipage web app powered by Streamlit.
 The first page enables students to explain their situation and if AI finds one or more fitting clubs it will recommend it to the student.
-The second page contains 4 visualisations regarding size, the recruiting statute,s and categories of the different clubs
+The second page contains 4 visualisations regarding size, the recruiting statute and categories of the different clubs
 
 ##Structure and instructions
 
