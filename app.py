@@ -17,13 +17,13 @@ st.set_page_config(
 # Sidebar for the navigation between the two different pages 
 # Display a sidebar title to group navigation controls
 st.sidebar.title("Navigate")
-# Create a radio button selector in the sidebar for switching between pages
+# Create a selector in the sidebar for switching between pages
 page = st.sidebar.radio(
-    "Go to",                       # label for the radio selector
+    "Go to",                      
     ["Club Finder", "Clubs Visualization and List"]  # options for navigation according to the two different pages
 )
 
-# conditional logic to output the appropriate page based on the user's choice
+# fonction that manage what to present according to the user choice
 if page == "Club Finder":
     # If 'Club Finder' is selected, call the club_finder() function
     club_finder()
