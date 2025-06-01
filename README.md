@@ -17,7 +17,7 @@ OPENAIAPI.py is the file that creates the AI-powered club finder by connecting t
 
 ##Instruction to run the code locally
 
-Normally, there is no need to run it locally.
+Normally, there is no need to run it locally as running it locally would provide the same outcome as running it on the server (current status).
 Currently, the code is set up to run on the Streamlit server. To run the code locally, some changes are required. 
 If you want to run the code locally, please first set your OpenAI API key as an environment variable in your device and link it accordingly.
 By changing the path of the API key in the OPENAIAPI.py file to the path to the key on your device. For example for mac "api_key=os.getenv("OPENAI_API_KEY")"
