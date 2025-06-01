@@ -1,4 +1,4 @@
-The app is accessible at "https://skillsgit-e6v4fsbadldi4elghnfwon.streamlit.app" 
+The app is accessible at "https://skills-public-gugqf5h85ur8grmnv7phms.streamlit.app" 
 
 ##Features and goals
 
@@ -9,7 +9,7 @@ The second page contains 4 visualizations regarding size, the recruiting statute
 
 ##Structure and instructions
 
-The app is available online at the following link: "https://skillsgit-e6v4fsbadldi4elghnfwon.streamlit.app".
+The app is available online at the following link: "https://skills-public-gugqf5h85ur8grmnv7phms.streamlit.app".
 If the app has not been used in a long time, please allow some time for initialization.
 In addition to the requirements file, five different files are required to run the app.
 main.py is the master file used to enable navigation between different pages and initialize the app.
@@ -20,9 +20,9 @@ OPENAIAPI.py is the file that creates the AI-powered club finder by connecting t
 Normally, there is no need to run it locally.
 Currently, the code is set up to run on the Streamlit server. To run the code locally, some changes are required. 
 If you want to run the code locally, please first set your OpenAI API key as an environment variable in your device and link it accordingly.
-By changing the path of the API key in the Full.py file to the path to the key on your device. For example for mac "api_key=os.getenv("OPENAI_API_KEY")"
+By changing the path of the API key in the OPENAIAPI.py file to the path to the key on your device. For example for mac "api_key=os.getenv("OPENAI_API_KEY")"
 Please also download all of the listed extensions in the requirements file.
-Then run the main.py file and by writing "streamlit run "<<<"path to the app.py file">>>"
+Then run the main.py file and by writing "streamlit run "<<<"path to the main.py file">>>"
 If you want to run the app locally, please send an email to nilsmichel.nguyen@student.unisg.ch so I can provide you with the OpenAI API key, as it is recommended not to share it on a public git.
 
 
