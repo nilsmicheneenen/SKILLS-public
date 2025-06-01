@@ -4,7 +4,7 @@ import streamlit as st
 # Import the main functions from our modules:
 # club_finder: provides a the ai powered search interface for clubs
 # clubs_visu: provides visualization dashboards for clubs and the list of the clubs
-from Full import main as club_finder
+from OPENAIAPI import main as club_finder
 from Clubsvisu import main as clubs_visu
 
 # Configure the overall page settings before any UI elements are rendered
