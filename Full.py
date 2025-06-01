@@ -1,3 +1,4 @@
+# This file connects to the OpenAI API in order to make AI based HSG- clubs recommendation 
 # Import necessary libraries
 import os  # Commonly imported when working with file paths
 import json  # To read and parse the JSON file containing club data
