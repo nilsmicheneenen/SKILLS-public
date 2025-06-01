@@ -1,3 +1,4 @@
+#This file is critical for the app as it enables to make connection with the different files and the navigation between the different feature of the app
 # Import Streamlit for creating the web app
 import streamlit as st
 # Import the main functions from our modules:
