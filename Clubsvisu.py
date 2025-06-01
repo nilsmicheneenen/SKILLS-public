@@ -1,3 +1,4 @@
+#This file creates visualisation using matplotlib and also enables the search for clubs using different predefined categories enabled by the data manipulation with pandas
 # Import necessary libraries
 import streamlit as st              # necessary to built the web app
 import pandas as pd                # For data manipulation and analysis
