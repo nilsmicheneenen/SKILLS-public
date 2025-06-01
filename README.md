@@ -12,8 +12,8 @@ The second page contains 4 visualisations regarding size, the recruiting statute
 The app is available online at the following link: "https://skillsgit-e6v4fsbadldi4elghnfwon.streamlit.app".
 In case the app has not been used in a long time please allow for some time for the initialisation.
 In addition to the requirements file, five different files are required to run the app.
-App.py is the master file that is used to enable the navigation between the different pages and the initialization of the app.
-Full.py is the file that creates the AI-powered club finder by being connected to OpenAI API on which shsg.clubs.keyword.json file is sent in order
+main.py is the master file that is used to enable the navigation between the different pages and the initialization of the app.
+OPENAIAPI.py is the file that creates the AI-powered club finder by being connected to OpenAI API on which shsg.clubs.keyword.json file is sent in order
 to enable the recommendation. Shsg.clubs.keywords.json is a compact file of shsg.clubs.json this transformation was required to not reach the API token limit.Clubsvisu.py powers the page which displays the visualization and filtering options according to the information found in the shsg.clubs.json and laid out. Overall, the app use the streamlit infrastructure in order to display it in an user-friendly manner.
 
 ##Instruction to run the code locally
